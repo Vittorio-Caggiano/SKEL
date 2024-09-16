@@ -11,7 +11,7 @@ setup(
     description="SKEL model Loader.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    version=1.0.1,
+    version="1.0.1",
     author="Marilyn Keller",
     packages=find_packages(),
     include_package_data=True,
